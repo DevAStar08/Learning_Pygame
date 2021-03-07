@@ -1,4 +1,4 @@
-# Pygame_Basics
+# Ping_Pong Game
 
 
 Learning Pygame by making mini pygame projects .
